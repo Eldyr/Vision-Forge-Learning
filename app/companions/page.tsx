@@ -1,8 +1,8 @@
-import React from 'react'
-
-const NewCompanion = () => {
+const CompanionsLibrary = () => {
     return (
-        <div>NewCompanion</div>
+        <div className="min-lg:w-1/3 min-mid:2/3 items-center justify-center">
+            Companions Library
+        </div>
     )
 }
-export default NewCompanion
+export default CompanionsLibrary
