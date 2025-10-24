@@ -74,7 +74,11 @@ Make sure you have the following installed:
    SENTRY_AUTH_TOKEN=
 
 
-3. Run on your terminal
+3. Create the tables on your supabase project
+<img width="731" height="472" alt="image" src="https://github.com/user-attachments/assets/2a370dfc-f78a-447a-a766-72eed40c25b2" />
+
+
+4. Run on your terminal
    ```bash
    npm run dev
    
