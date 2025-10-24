@@ -52,3 +52,29 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/Eldyr/Vision-Forge-Learning.git
    cd Vision-Forge-Learning
+
+2. create an .env.local file for your api keys 
+
+   ```bash
+   #Clerk
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY_
+   CLERK_SECRET_KEY
+   
+   NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+   NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+   
+   #Supabase
+   NEXT_PUBLIC_SUPABASE_URL=
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=
+   
+   #Vapi 
+   NEXT_PUBLIC_VAPI_WEB_TOKEN=
+   
+   #Sentry
+   SENTRY_AUTH_TOKEN=
+
+
+3. Run on your terminal
+   ```bash
+   npm run dev
+   
