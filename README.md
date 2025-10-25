@@ -36,6 +36,8 @@ Vision-Forge-Learning aims to reimagine digital learning by combining the flexib
 
 ## Getting Started
 
+You can test it here: https://vision-forge-learning.vercel.app/ or you can clone the repo and run it locally
+
 ### Prerequisites
 
 Make sure you have the following installed:
